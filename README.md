@@ -5,7 +5,7 @@ Tested Arduino Library for HLW8032
 For more information, please watch this YouTube video completely  
   
 
-url  
+https://www.youtube.com/watch?v=1I6Bz7_DOGs 
   
 
 Calculated Values (Arduino Nano)  
